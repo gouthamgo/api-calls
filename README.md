@@ -1,3 +1,17 @@
+# Yse axios to make GET and POST requests
+
+## Make a component and render using map method 
+
+## useState and UseEffect to manage states and axios to send requests
+
+## form event handling and check the console to know about the data 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
