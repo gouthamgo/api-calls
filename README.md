@@ -1,4 +1,4 @@
-# Yse axios to make GET and POST requests
+# Use axios to make GET and POST requests
 
 ## Make a component and render using map method 
 
